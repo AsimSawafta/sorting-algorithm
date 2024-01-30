@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706556808 source:c:\users\crc\desktop\sorting algrithm\sortingalgorithm\main.cpp
+	<iostream>
+	<ctime>
+	<chrono>
+
